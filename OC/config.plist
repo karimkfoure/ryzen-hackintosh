@@ -24,7 +24,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string></string>
+				<string>Patch</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -306,7 +306,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/NullEthernet.kext</string>
+				<string>Contents/MacOS/NullEthernet</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
